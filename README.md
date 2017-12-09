@@ -14,4 +14,4 @@ Create a sample dataset and implement the below Pig commands on the same dataset
 
 # Solution:
 
-The PDF document posted in this repository describes each of the above commands with example and output screenshots.
+The PDF document posted in this repository contains description for each of the above commands with example as well as output screenshots.
